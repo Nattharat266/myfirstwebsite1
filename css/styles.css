@@ -1,0 +1,18 @@
+body{
+    background-color: skyblue;
+}
+h1{
+    size: 20px;
+}
+img{
+    background-color: beige;
+}
+.muchroom{
+    background-color: yellow;
+}
+.circular{
+    border-radius: 100%;
+}
+.cat{
+    background-color: white;
+}
